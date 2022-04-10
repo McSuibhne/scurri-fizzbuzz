@@ -1,0 +1,1 @@
+Repo for first Scurri programming exercise, includes code and tests for FizzBuzz variant with "Three" and "Five" instead of "Fizz" and "Buzz"
