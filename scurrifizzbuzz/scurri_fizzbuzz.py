@@ -8,6 +8,10 @@ def fizzbuzz(number):
     else:
         return number
 
-if __name__ == '__main__':
+def main():
     for number in range(1, 101):
         print(fizzbuzz(number))
+
+
+if __name__ == '__main__':
+    main()
